@@ -6,8 +6,8 @@ Just combine samples and make the party with some QRCode!
 
 +	To use, first Install;
 
-	> [Processing](http://processing.org/)
-	> [OpenCV](http://ubaa.net/shared/processing/opencv/)
+	- [Processing](http://processing.org/)
+	- [OpenCV](http://ubaa.net/shared/processing/opencv/)
 
 +	Then, print the QRCodes;
 +	Crop them;
